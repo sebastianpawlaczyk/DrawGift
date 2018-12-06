@@ -1,0 +1,8 @@
+//
+// Created by seba on 06.12.18.
+//
+
+#ifndef DRAWGIFTS_USERSERVICE_HPP
+#define DRAWGIFTS_USERSERVICE_HPP
+
+#endif //DRAWGIFTS_USERSERVICE_HPP
